@@ -25,15 +25,16 @@ For week 2, I need a solution how to over-/underweight the Top 5 positive return
 
 # Submission Week 2
 
-   import numpy as np  # useful for many scientific computing in Python
-   import pandas as pd # primary data structure library
+import numpy as np  # useful for many scientific computing in Python
 
-   print('numpy and pandas installed!')
+import pandas as pd # primary data structure library
 
-   df_can = pd.read_excel('https://github.com/Nicolas-8/Capstone_Project-ETFs/blob/master/product-screener.xlsx?raw=true',
-                          sheet_name='USA no specific investor type',
-                          ) # copy link on 'View raw' on github (file download pops up)
+print('numpy and pandas installed!')
 
-   print('data downloaded and read into a dataframe!')
+df_can = pd.read_excel('https://github.com/Nicolas-8/Capstone_Project-ETFs/blob/master/product-screener.xlsx?raw=true',
+                       sheet_name='USA no specific investor type',
+                       ) # copy link on 'View raw' on github (file download pops up)
 
-   df_can.head()
+print('data downloaded and read into a dataframe!')
+
+df_can.head()
