@@ -22,3 +22,18 @@ I only included Equity ETF (asset class) in the data file. The data is already s
 https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
 
 For week 2, I need a solution how to over-/underweight the Top 5 positive return performers and over-/underweight the Worst 5 positive return performers, or vice versa, to see which strategy works best. Above description will be summarized in a PPP or LinkedIn-post later on.
+
+# Submission Week 2
+
+import numpy as np  # useful for many scientific computing in Python
+import pandas as pd # primary data structure library
+
+print('numpy and pandas installed!')
+
+df_can = pd.read_excel('https://github.com/Nicolas-8/Capstone_Project-ETFs/blob/master/product-screener.xlsx?raw=true',
+                       sheet_name='USA no specific investor type',
+                       ) # copy link on 'View raw' on github (file download pops up)
+
+print('data downloaded and read into a dataframe!')
+
+df_can.head()
