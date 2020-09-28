@@ -16,12 +16,7 @@
 
     For simplicity reasons I first checked the largest issuer, iShares (BlackRock) for any data available on Equity ETFs.
 With the link below you can access the file as well if you plan to build something similar with it. This data made my Bloomberg Terminal access obsolete for now but BBG might be an additional source for later, if needed (e.g. missing monthly price data).
-The data is already sorted by Net asset (USD) so the choropleth map should choose the largest ETF for each country. There are different YTD returns available as well for the heat map. A comparison of the TER (total expense ratio) is also possible with the data set and important for the investors.
-
-iShares ETFs USA (no specific investor type): 
-https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
-
-Above description will be summarized in a PPP or LinkedIn-post later on.
+The data is already sorted by Net asset (USD) so the choropleth map should choose the largest ETF for each country. There are different YTD returns available as well for the heat map. A comparison of the TER (total expense ratio) is also possible with the data set and important for the investors. Data source (no specific investor type): https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
 
 
 
