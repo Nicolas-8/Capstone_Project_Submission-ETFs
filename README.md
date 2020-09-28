@@ -35,4 +35,6 @@ The data is already sorted by Net asset (USD) so the choropleth map should choos
 # Submission Week 2:
 
 Repository: https://github.com/Nicolas-8/Capstone_Project_Submission-ETFs
-Excel-File (click "View raw" for file download): https://github.com/Nicolas-8/Capstone_Project_Submission-ETFs/blob/master/product-screener.xlsx
+Data/Excel-File (click "View raw" for file download): https://github.com/Nicolas-8/Capstone_Project_Submission-ETFs/blob/master/product-screener.xlsx
+Code: https://github.com/Nicolas-8/Capstone_Project_Submission-ETFs/blob/master/ETFs-Done-20200928-submission.ipynb
+Report/PDF-File:
