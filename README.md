@@ -24,14 +24,15 @@ https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
 For week 2, I need a solution how to over-/underweight the Top 5 positive return performers and over-/underweight the Worst 5 positive return performers, or vice versa, to see which strategy works best. Above description will be summarized in a PPP or LinkedIn-post later on.
 
 # Submission Week 2
+1.  A full report consisting of all of the following components (15 marks):
 
-import numpy as np  # useful for many scientific computing in Python
-import pandas as pd # primary data structure library
-print('numpy and pandas installed!')
+    Introduction where you discuss the business problem and who would be interested in this project.
+    Data where you describe the data that will be used to solve the problem and the source of the data.
+    Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+    Results section where you discuss the results.
+    Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+    Conclusion section where you conclude the report.
 
-df_can = pd.read_excel('https://github.com/Nicolas-8/Capstone_Project-ETFs/blob/master/product-screener.xlsx?raw=true',
-                       sheet_name='USA no specific investor type',
-                       ) # copy link on 'View raw' on github (file download pops up)
-print('data downloaded and read into a dataframe!')
+2. A link to your Notebook on your Github repository pushed showing your code. (15 marks)
 
-df_can.head()
+3. Your choice of a presentation or blogpost. (10 marks)
