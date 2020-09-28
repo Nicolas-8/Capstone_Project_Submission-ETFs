@@ -1,5 +1,5 @@
 # Capstone_Project-ETFs
-For week 1, you will required to submit the following:
+# For week 1, you will required to submit the following:
 
 1. A description of the problem and a discussion of the background. (15 marks)
 2. A description of the data and how it will be used to solve the problem. (15 marks)
@@ -25,7 +25,7 @@ Above description will be summarized in a PPP or LinkedIn-post later on.
 
 
 
-For Week 2, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
+# For Week 2, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
 
 1.  A full report consisting of all of the following components (15 marks):
     - Introduction where you discuss the business problem and who would be interested in this project.
