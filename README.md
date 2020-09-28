@@ -33,3 +33,5 @@ The data is already sorted by Net asset (USD) so the choropleth map should choos
 3. Your choice of a presentation or blogpost. (10 marks)
 
 # Submission Week 2:
+
+Excel-File (click "View raw" for file download): https://github.com/Nicolas-8/Capstone_Project_Submission-ETFs/blob/master/product-screener.xlsx
