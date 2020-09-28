@@ -23,7 +23,7 @@ https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
 
 Above description will be summarized in a PPP or LinkedIn-post later on.
 
-+ + +
+
 
 For Week 2, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
 
